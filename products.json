@@ -50,5 +50,18 @@
     "stars": 5,
     "reviews": 52,
     "inStock": true
+  },
+    {
+    "id": 5,
+    "productName": "HG Gundam 1/144 RX-78-2 Gundam Model Kit",
+    "category": "Model Kits",
+    "owner": "Daddy",
+    "description": "The classic RX-78-2 Gundam model kit! Perfect for beginners and fans of the original Mobile Suit Gundam series. Comes with stickers and a display stand.",
+    "price": 14.99,
+    "images": ["images/gundam_model.png"],
+    "badge": "Daddy's Pick �️",
+    "stars": 4.5,
+    "reviews": 34,
+    "inStock": true
   }
 ]
