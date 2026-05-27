@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "productName": "Tie Dye Furby",
+    "category": "Toys",
+    "owner": "Naomi",
+    "description": "The super fluffy pastel rainbow Furby with bead necklace and comb! Talks, sings, and is the cutest thing ever.",
+    "price": 9.99,
+    "images": ["images/furby_tiedye.png"],
+    "badge": "Naomi's Fave ⭐",
+    "stars": 5,
+    "reviews": 128,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "productName": "Squishmallows Scented Slime",
+    "category": "Toys",
+    "owner": "Audrey",
+    "description": "Sugar cookie scented slime in the cutest unicorn cat Squishmallow cup! Fluffy, squishy, and smells amazing.",
+    "price": 5.99,
+    "images": ["images/slime_squishmallow.png"],
+    "badge": "Audrey's Pick 💙",
+    "stars": 5,
+    "reviews": 74,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "productName": "Gold & White Furby",
+    "category": "Toys",
+    "owner": "Naomi",
+    "description": "The gorgeous limited edition white and gold Furby! Comes with a crown, comb, and necklace. Super fancy and rare!",
+    "price": 9.99,
+    "images": ["images/furby_gold.png"],
+    "badge": "Limited Edition 👑",
+    "stars": 5,
+    "reviews": 96,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "productName": "Flarp! Flip 'N Flarp Glitter Slime",
+    "category": "Toys",
+    "owner": "Audrey",
+    "description": "Two glittery slimes in one — flip it to switch between pink and blue! Stretchy, sparkly, and super satisfying to play with.",
+    "price": 6.99,
+    "images": ["images/flarp_slime.png"],
+    "badge": "Audrey's Pick 💙",
+    "stars": 5,
+    "reviews": 52,
+    "inStock": true
+  }
+]
